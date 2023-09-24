@@ -18,8 +18,8 @@ This is a NoSQL social network web application where users can share their thoug
 - `Insomnia`: [Download](https://insomnia.rest/download)
 
 ## Usage
-Use the following commands at the root of your project to get started:
-1. Run the command `npm init -y` to create a  to install dependencies.
+Use the following commands at the root of the project to get started:
+1. Run the command `npm i` to install dependencies.
 2. Enter `npm start` or `node server.js` command to start the server. 
 3. Once connected to localhost, you should see a message indicating the API server is running. 
 4. Use Insomnia to open http://localhost:3001 and test API `GET` routes for users and thoughts.
