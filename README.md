@@ -29,11 +29,11 @@ Use the following commands at the root of the project to get started:
 The following walkthrough videos demonstrate the functionality of the social media API:
 1. The first video demonstrates how to start the application's server.
 
-https://github.com/suzyhan/
+https://github.com/suzyhan/social-network/assets/129558186/e6287963-acbe-48f9-80b5-82e1d2da1859
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png" muted="" loop="" autoplay="">
-    <source src="assets/" type="video/mp4">
+    <source src="assets/social-network-API.mp4" type="video/mp4">
   </video>
 </figure>
 
@@ -44,11 +44,11 @@ https://github.com/suzyhan/
 - `POST` and `DELETE` routes for a user's friend list
 - `POST` and `DELETE` routes for reactions to thoughts
 
-https://github.com/suzyhan/
+https://github.com/suzyhan/social-network/assets/129558186/03e76f86-d943-44ce-9d60-cd92229f2a79
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png" muted="" loop="" autoplay="">
-    <source src="assets/" type="video/mp4">
+    <source src="assets/social-network-API-routes.mp4" type="video/mp4">
   </video>
 </figure>
 
